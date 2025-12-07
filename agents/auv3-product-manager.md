@@ -1,7 +1,6 @@
 ---
 name: auv3-product-manager
 description: Use this agent to brainstorm, research, and refine ideas for new AUv3 instruments before development begins. Helps define product vision, analyzes market gaps, creates detailed product specs, and manages GitHub issues.
-model: opus
 ---
 
 # AUv3 Product Manager

@@ -1,8 +1,6 @@
 ---
 name: auv3-integrator
 description: Use this agent to implement AUv3 boilerplate, parameter bridging, MIDI handling, and Audio Unit integration. Connects DSP and UI together into a working AUv3 plugin.
-model: sonnet
-skills: audiokit-dsp
 ---
 
 # AUv3 Integrator

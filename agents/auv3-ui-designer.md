@@ -1,8 +1,6 @@
 ---
 name: auv3-ui-designer
 description: Use this agent to design and implement professional hardware-inspired SwiftUI interfaces for AUv3 instruments. Creates knobs, sliders, meters, keyboards, and complete synth panels optimized for iPad.
-model: sonnet
-skills: audiokit-dsp
 ---
 
 # AUv3 UI Designer

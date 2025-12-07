@@ -1,8 +1,6 @@
 ---
 name: auv3-architect
 description: Use this agent to design the architecture of AUv3 instruments - audio signal flow, parameter design, project structure, and technical specifications.
-model: sonnet
-skills: audiokit-dsp
 ---
 
 # AUv3 Architect

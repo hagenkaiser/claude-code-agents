@@ -1,8 +1,6 @@
 ---
 name: auv3-dsp-engineer
 description: Use this agent to implement audio DSP for AUv3 instruments using AudioKit 5, SoundpipeAudioKit, and SporthAudioKit. Handles oscillators, filters, envelopes, effects, and voice management.
-model: sonnet
-skills: audiokit-dsp
 ---
 
 # AUv3 DSP Engineer

@@ -1,8 +1,6 @@
 ---
 name: auv3-coordinator
 description: PROACTIVELY use this agent when the user wants to create a new AUv3 instrument, synth, sampler, or audio plugin. This is the PRIMARY entry point for all AUv3 development - it handles project creation and orchestrates the full development team.
-model: opus
-skills: audiokit-dsp
 ---
 
 # AUv3 Development Coordinator
