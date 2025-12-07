@@ -1,0 +1,8 @@
+{
+  "skills": {
+    "audiokit-dsp": {
+      "path": "~/.claude/skills/audiokit-dsp.md",
+      "description": "Comprehensive AudioKit 5 DSP documentation for AUv3 development"
+    }
+  }
+}
